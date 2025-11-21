@@ -1,0 +1,47 @@
+body{
+  padding: 25px;
+  
+  background-repeat: no-repeat;background-size: cover;
+  
+}
+.title {
+	color: #5C6AC4;
+}
+.image {
+  width:150px;
+  height: auto;
+  margin: 5px;
+  transition:1s;
+}
+.image:hover {
+  width: 140px;
+  transition:1s;
+}
+.ed {
+  width:250px;
+  height: auto;
+  transition:1s;
+}
+.ed:hover {
+  width: 240px;
+  transition:1s;
+}
+.class {
+  width:150px;
+  height:auto;
+  margin: 5px;
+  margin-top:20px;
+  transition: 1s;
+}
+.class:hover {
+  width: 140px;
+  transition: 1s;
+  
+  
+}
+.note {
+  color: red;
+  background-color:yellow;
+  padding: 15px;
+  border-radius: 15px;
+}
